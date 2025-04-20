@@ -4,7 +4,7 @@ import { Logo } from '../../assets/icons/Logo';
 export const Header: React.FC = (): React.ReactElement => {
 
   return (
-    <header className="mt-8">
+    <header className="m-8">
       <Logo />
     </header>
   );
